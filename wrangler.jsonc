@@ -9,5 +9,8 @@
   },
   "observability": {
     "enabled": true
+  },
+  "vars": {
+    "INSTAGRAM_USER_ID": "17841437061425557"
   }
 }
